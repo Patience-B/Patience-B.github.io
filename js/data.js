@@ -20,7 +20,7 @@ const data = [
 
 // Goals configuration
 const goals = {
-    bible: 14, // ~100 verses per week / 7 days
+    bible: 100, 
     steps: 7000,
     sand: 5,
     portfolio: 1,
